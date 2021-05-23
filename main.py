@@ -5,9 +5,10 @@ author: Burakhan Aksoy
 date: 22-5-2021
 '''
 
+from math import sqrt
 AVAILABLE_COLORS = ('pink', 'orange', 'aqua', 'yellow')
 
-from math import sqrt
+
 class Car:
     '''
     Car class, doesn't do much :))
